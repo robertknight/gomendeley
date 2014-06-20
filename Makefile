@@ -1,0 +1,2 @@
+gomendeley: *.go
+	go build
